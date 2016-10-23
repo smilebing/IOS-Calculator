@@ -47,7 +47,7 @@ class CalculatorBrain{
                 
             case .BinaryOperation:
                 break
-                 
+                
             case .Equals:
                 break
             
